@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Car Road Tax</string>
+    <string name="carRegistrationNum">Car Registration Number</string>
+    <string name="engineCapacity">Engine Capacity (CC)</string>
+    <string name="state">State</string>
+
+    <string-array name="stateArray">
+        <item>Peninsular</item>
+        <item>Sabah and Sarawak</item>
+    </string-array>
+
+    <string name="placeholder_carRegNum">E.g 2105144</string>
+    <string name="placeholder_engineCC">E.g 0-2000</string>
+
+    <string name="btnCheck">Check</string>
+    <string name="btnContact">Contact Us</string>
+
+    <string name="error1">Car Registration Number required</string>
+
+</resources>
